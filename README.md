@@ -18,10 +18,10 @@ Ce projet est une reproduction de l'ouverture de Pokémon Blue/Red en utilisant 
 
 ## English
 
-![gameboy](https://github.com/user-attachments/assets/62449b8d-a496-48b4-a235-de9a3dfb973a)
-
 ### Description
 This project is a reproduction of the Pokémon Blue/Red opening using HTML and CSS. The `index.html` file contains the structure of the page, including links to the necessary CSS and JavaScript files.
+
+![gameboy](https://github.com/user-attachments/assets/62449b8d-a496-48b4-a235-de9a3dfb973a)
 
 ### Content
 - `index.html`: The main file containing the HTML structure of the page.
